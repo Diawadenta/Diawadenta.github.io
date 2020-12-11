@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        {%- if page.pagename -%}
+            <title>{{ page.pagename }} - Enthusiastic</title>
+        {%- else -%}
+            <title>Enthusiastic</title>
+        {%- endif -%}
+        <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
+        <link rel="shortcut icon" href="{{ site.url }}/assets/images/favicon.ico" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap" rel="stylesheet">
+        <meta name="description" content="ガジェット好き（？）の日誌、Enthusiasticです。">
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="og:url" content="{{site.url}}{{page.url}}" />
+        <meta property="og:title" content="{{page.pagename}}"/>
+        <meta property="og:image" content="{{ site.url }}/assets/images/preview.png" />
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161059827-1');
+        </script>
+    </head>
+    <body>
+        <div class="container">
+            {% include header.html %}
+            <div class="main">
+                <div class="block" style="float: left;">
+                    {%- if page.pagename -%}
+                    <div class="pagetitle"style="border-bottom: 2px solid #3261A3;">
+                        <h1>{{ page.pagename }}</h1>
+                        {%- if page.date -%}
+                            <div style="float: right;">更新日:{{ page.date | date: "%Y/%m/%d"}}</div><br>
+                        {%- endif -%}
+                    </div>
+                    {%- endif -%}
+                    <article>
+                        {{ content }}
+                    </article>
+                    {%- if page.showfooter -%}
+                    {% include footer.html %}
+                    {%- endif -%}
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
