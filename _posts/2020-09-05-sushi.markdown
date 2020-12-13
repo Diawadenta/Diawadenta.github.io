@@ -1,0 +1,13 @@
+---
+layout: default
+pagename: "寿司"
+showfooter: True
+---
+
+私、今日は寿司を食べたんですよ。
+
+マグロづくしで、まじうまかったです。
+
+うん。うまかった。また食べたい。
+
+![まぐろ]({{site.url}}\assets\images\maguro.png)
