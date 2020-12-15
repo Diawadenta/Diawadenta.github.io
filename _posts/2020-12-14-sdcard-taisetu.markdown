@@ -18,11 +18,11 @@ Raspberry Pi を使っていて、とてもいいんですけどなんか遅い�
 
 そこで調べました。
 
-<div style="font-size:20px;">Raspberry Pi 重い</div>
+<div style="font-size:30px;">Raspberry Pi 重い</div>
 
 ありました解決法。
 
-<div style="font-size:20px;">SDカード</div>が悪いみたいです。
+<div style="font-size:30px;">SDカード</div>が悪いみたいです。
 
 なので SanDisk の一番いいやつを買って、データを移行してみました。
 
