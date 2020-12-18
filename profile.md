@@ -8,9 +8,9 @@ pagename: プロフィール
 
 趣味：電子工作、パソコン、プログラミング、DTM
 
-Scratch:<a href="(https://scratch.mit.edu/users/-p-e-n-/)">@-p-e-n-</a>
+Scratch:<a href="https://scratch.mit.edu/users/-p-e-n-/">@-p-e-n-</a>
 
-GitHub:<a href="(https://github.com/EnthusiasticProgram/EnthusiasticProgram.github.io)">@EnthusiasticProgram</a>
+GitHub:<a href="https://github.com/EnthusiasticProgram/EnthusiasticProgram.github.io">@EnthusiasticProgram</a>
 
 他人と一緒に何かを作るのが苦手です。
 
