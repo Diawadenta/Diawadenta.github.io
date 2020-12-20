@@ -15,3 +15,7 @@ pagename: 相互リンク
 <h2><a href="https://neko001robov.github.io/">nyankotrainのお部屋</a></h2>
 
 <a href="https://scratch.mit.edu/users/nyankotrain/">@nyankotrain</a>
+
+<h2><a href="http://plsk.net/tsumuri3-profile">tsumuri3のプロフィール</a></h2>
+
+<a href="https://scratch.mit.edu/users/tsumuri3/">@tsumuri3</a>
