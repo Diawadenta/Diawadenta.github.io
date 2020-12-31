@@ -1,6 +1,6 @@
 ---
 layout: default
-pagename: "ScratcherのWebサイト"
+pagename: "iPad デ 仮想PC"
 showfooter: True
 ---
 
