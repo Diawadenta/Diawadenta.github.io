@@ -1,0 +1,17 @@
+<div class="footer2">
+    {%- if page.next -%}
+    <div style="display: inline-block;">
+        <h3>次の記事</h3>
+        <a href="{{ site.url }}{{ page.next.url }}">{{page.next.pagename}}</a>
+    </div>
+        {%- endif -%}
+    {%- if page.previous-%}
+    <div style="display: inline-block;">
+        <h3>記事一覧</h3>
+        <a href="{{site.url}}\posts">記事一覧</a>
+    </div>
+    <div style="display: inline-block;">
+        <h3>前の記事</h3>
+        <a href="{{ site.url }}{{ page.previous.url }}">{{page.previous.pagename}}</a>
+    </div>
+    {%- endif -%}
