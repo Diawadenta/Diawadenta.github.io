@@ -23,3 +23,7 @@ pagename: 相互リンク
 <h2><a href="https://tsumuri3.github.io/homepage/tsumuri.html">tsumuri3のページ</a></h2>
 
 <a href="https://scratch.mit.edu/users/tsumuri3/">@tsumuri3</a>
+
+<h2><a href="https://srnet.cf/">SRNET Document</a></h2>
+
+<a href="https://scratch.mit.edu/users/mantachan/">@mantachan</a>
