@@ -2,6 +2,7 @@
 layout: default
 pagename: "寿司"
 showfooter: True
+image: maguro.png
 ---
 
 私、今日は寿司を食べたんですよ。
@@ -9,5 +10,3 @@ showfooter: True
 マグロづくしで、まじうまかったです。
 
 うん。うまかった。また食べたい。
-
-![まぐろ]({{site.url}}\assets\images\maguro.png)

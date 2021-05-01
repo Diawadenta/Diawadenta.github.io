@@ -1,0 +1,18 @@
+---
+layout: default
+pagename: "これはテストです"
+showfooter: True
+image: test.png
+---
+
+これはテストです。
+
+は？？？？
+
+ですよね。
+
+## まとめ
+
+<div style="font-size:30px;">ここにdivは使わないほうがいいんじゃない？？</div>
+
+以上です。PeeNuでした。
