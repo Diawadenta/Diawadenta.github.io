@@ -27,3 +27,7 @@ pagename: 相互リンク
 <h2><a href="https://srnet.cf/">SRNET Document</a></h2>
 
 <a href="https://scratch.mit.edu/users/mantachan/">@mantachan</a>
+
+<h2><a href="https://yuikunyeah.github.io/homepage/profile.html">yuikunyeahのプロフ</a></h2>
+
+<a href="https://scratch.mit.edu/users/yuikunyeah/">@yuikunyeah</a>
