@@ -6,8 +6,6 @@ image: bass.png
 imagecaption: <a href="https://pixabay.com/ja/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1841186">Pexels</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1841186">Pixabay</a>からの画像
 ---
 
-<br>
-
 私、最近ベースに没頭しておりまして、
 
 指に水ぶくれが２つできるほどやっているんですよ。一ヶ月ほどしかやってないんですけどね。
