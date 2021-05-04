@@ -3,6 +3,7 @@ layout: default
 pagename: "寿司"
 showfooter: True
 image: maguro.png
+imagecaption: <a href="https://pixabay.com/ja/users/milivigerova-742747/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=716430">Milada Vigerova</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=716430">Pixabay</a>からの画像
 ---
 
 私、今日は寿司を食べたんですよ。
