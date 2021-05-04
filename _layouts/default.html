@@ -45,11 +45,12 @@
           <div class="pageabout">{{ page.tags }} {{ page.date | date: "%Y/%m/%d"}}</div><br>
           {%- endif -%}
           {%- if page.image -%}
-          <div class="pageimage"><img src="{{site.url}}/assets/images/{{ page.image }}"></div>
+          <div class="pageimage"><img src="{{site.url}}/assets/images/{{ page.image }}">
           {%- endif -%}
-          {%- if page.imagecapiton -%}
-          <p>{{ page.imagecaption }}</p>
+          {%- if page.imagecaption -%}
+          {{ page.imagecaption }}
           {%- endif -%}
+          </div>
         </div>
         {%- endif -%}
         <article>
