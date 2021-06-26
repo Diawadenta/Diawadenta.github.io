@@ -2,6 +2,7 @@
 layout: default
 pagename: "念願のサイトアップデート！！"
 showfooter: True
+image: update.png
 ---
 
 ようやくです。
