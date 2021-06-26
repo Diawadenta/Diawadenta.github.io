@@ -2,6 +2,8 @@
 layout: default
 pagename: "最新のMacが強い"
 showfooter: True
+image: mac.png
+imagecaption: <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=691282">Free-Photos</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=691282">Pixabay</a>からの画像
 ---
 
 わたくし、最新のMacが気になってるんですよ。
