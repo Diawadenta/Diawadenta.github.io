@@ -2,6 +2,8 @@
 layout: default
 pagename: おひたしブリです
 showfooter: true
+image: salmon.png
+imagecaption: <a href="https://pixabay.com/ja/users/shutterbug75-2077322/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238248">Shutterbug75</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1238248">Pixabay</a>からの画像
 ---
 
 お久しぶりです。約3か月ぶりの更新となってしまいました。
