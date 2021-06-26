@@ -2,6 +2,8 @@
 layout: default
 pagename: "ScratcherのWebサイト"
 showfooter: True
+image: scratch.png
+imagecaption: <a href="https://pixabay.com/ja/users/phio-100908/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=228999">Philipp Ruch</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=228999">Pixabay</a>からの画像
 ---
 
 ※6日間休んでました
