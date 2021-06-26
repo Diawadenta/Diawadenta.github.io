@@ -2,6 +2,8 @@
 layout: default
 pagename: "気になるあのPC"
 showfooter: True
+image: raspi.png
+imagecaption: <a href="https://pixabay.com/ja/users/benjaminnelan-268798/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1719217">Benjamin Nelan</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1719217">Pixabay</a>からの画像
 ---
 
 またRaspberry Piの話題です。
