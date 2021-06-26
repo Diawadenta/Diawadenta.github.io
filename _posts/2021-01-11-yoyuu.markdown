@@ -2,6 +2,8 @@
 layout: default
 pagename: "余裕を持つための5分前行動"
 showfooter: True
+image: business.png
+imagecaption: <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=690084">Free-Photos</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=690084">Pixabay</a>からの画像
 ---
 
 ※11日間休んでました
