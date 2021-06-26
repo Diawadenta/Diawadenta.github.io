@@ -2,6 +2,8 @@
 layout: default
 pagename: "SDカードの大切さ"
 showfooter: True
+image: sd.png
+imagecaption: <a href="https://pixabay.com/ja/users/lppicture-5664606/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2418349">Lutz Peter</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2418349">Pixabay</a>からの画像
 ---
 
 わたくし、最近 Raspberry Pi というちっちぇパソコンで遊んでいるんですよ。
