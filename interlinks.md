@@ -4,7 +4,7 @@ pagename: 相互リンク
 ---
 相互リンクを希望する場合は<a href="https://scratch.mit.edu/studios/27464523/">Enthusiasticの感想・意見</a>からお願いします。
 
-<h2><a href="https://yukkku.github.io/">Yukkkuのhtmlとかcssとか練習場</a></h2>
+<h2><a href="https://yukkku.github.io/">Yukkkuの手帳</a></h2>
 
 <a href="https://scratch.mit.edu/users/yukku/">@yukku</a>
 
