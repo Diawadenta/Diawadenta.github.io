@@ -3,6 +3,7 @@ layout: default
 pagename: "Windowsの動くスマホ"
 showfooter: True
 image: windows.png
+imagecaption: <a href="https://pixabay.com/ja/users/simon-3/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=886462">Simon</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=886462">Pixabay</a>からの画像
 ---
 
 
