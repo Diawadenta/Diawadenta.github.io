@@ -2,6 +2,7 @@
 layout: default
 pagename: "Windowsの動くスマホ"
 showfooter: True
+image: windows.png
 ---
 
 
