@@ -2,6 +2,8 @@
 layout: default
 pagename: "iPad デ 仮想PC"
 showfooter: True
+image: ipad.png
+imagecaption: <a href="https://pixabay.com/ja/users/timlongconsulting-17308436/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5576238">TimLongConsulting</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5576238">Pixabay</a>からの画像
 ---
 
 ※7日間休んでました
