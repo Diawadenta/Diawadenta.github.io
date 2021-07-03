@@ -20,20 +20,27 @@ imagecaption: <a href="https://pixabay.com/ja/users/stocksnap-894430/?utm_source
 ## Renegade Project
 
 [Renegade Project](https://renegade-project.org/#/)は、Snapdragon 845を搭載したスマホにWindowsやLinuxを入れることにチャレンジしているプロジェクトで、現在ではOnePlus 6、6Tを中心としたいくつかのスマホに対応しています。
+
 自粛期間中暇を持て余していたのでチャレンジしているようです。このご時世だからこそですね。
+
 手順は多く、中〜上級者向けですが、現在入手が難しいLumia 950を使うよりかは比較的気軽にやれる（？）かもです。
 
 ## Lumia WOA Project
 
 こちらLumia 950でWindows on ARMを動かそうプロジェクト一号です。
+
 前述のRenegade Projectより前に行われていたプロジェクトなので、より安定してWindowsが動作するようです。
+
 こちらは数人の学生さんたちがチャレンジしています。
+
 手順はRenegade Projectより少なく、ツールを使うので簡単なようです。
 
 ## Windows 11！！！
 
 ここまで紹介してきた2つのプロジェクト、Windows 11も動作します。
+
 とっても仕事が早いですね。
+
 ↓Renegade Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4EG1GLHWKWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
