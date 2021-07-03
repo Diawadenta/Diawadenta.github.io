@@ -27,7 +27,7 @@ imagecaption: <a href="https://pixabay.com/ja/users/stocksnap-894430/?utm_source
 
 ## Lumia WOA Project
 
-こちらLumia 950でWindows on ARMを動かそうプロジェクト一号です。
+[Lumia WOA Project](https://woa-project.github.io/LumiaWOA/)です。Lumia 950でWindows on ARMを動かそうプロジェクト一号です。
 
 前述のRenegade Projectより前に行われていたプロジェクトなので、より安定してWindowsが動作するようです。
 
