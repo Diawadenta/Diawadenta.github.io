@@ -67,7 +67,6 @@ a:hover {
 }
 
 article {
-  position: relative;
   padding: 7px 0;
 }
 
@@ -114,6 +113,7 @@ header {
   padding: 20px 30px;
   box-sizing: border-box;
   position: fixed;
+  z-index: 10
   top: 0;
   left: 0;
   display: flex;
