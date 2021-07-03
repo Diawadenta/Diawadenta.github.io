@@ -67,6 +67,7 @@ a:hover {
 }
 
 article {
+  position: relative;
   padding: 7px 0;
 }
 
