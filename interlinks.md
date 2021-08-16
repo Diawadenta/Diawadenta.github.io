@@ -32,7 +32,7 @@ pagename: 相互リンク
 
 <a href="https://scratch.mit.edu/users/nyankotrain/">@nyankotrain</a>
 
-<h2><a href="https://tsumuri3.github.io/homepage/tsumuri.html">tsumuri3のページ</a></h2>
+<h2><a href="https://tsumuri3.glitch.me/">tsumuri3's website</a></h2>
 
 <a href="https://scratch.mit.edu/users/tsumuri3/">@tsumuri3</a>
 
