@@ -4,6 +4,10 @@ pagename: 相互リンク
 ---
 相互リンクを希望する場合は<a href="https://scratch.mit.edu/studios/27464523/">Enthusiasticの感想・意見</a>からお願いします。
 
+<h2><a href="https://keichi1087t.wixsite.com/ketiweb">K-site</a></h2>
+
+<a href="https://scratch.mit.edu/users/ketiketi87/">@ketiketi87</a>
+
 <h2><a href="https://poteto143.github.io/Poteto143s_diary/">Poteto143's diary</a></h2>
 
 <a href="https://scratch.mit.edu/users/Poteto143/">@Poteto143</a>
