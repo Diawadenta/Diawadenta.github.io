@@ -8,7 +8,7 @@ pagename: 相互リンク
 
 <a href="https://scratch.mit.edu/users/nebanebakun/">@nebanebakun</a>
 
-<h2><a href="https://keichi1087t.wixsite.com/ketiweb">K-site</a></h2>
+<h2><a href="https://613482be66713.site123.me/">K-site</a></h2>
 
 <a href="https://scratch.mit.edu/users/ketiketi87/">@ketiketi87</a>
 
