@@ -16,7 +16,7 @@ pagename: 相互リンク
 
 <a href="https://scratch.mit.edu/users/Poteto143/">@Poteto143</a>
 
-<h2><a href="https://bellomaker.github.io/">BellMe!</a></h2>
+<h2><a href="https://bellomaker.glitch.me/">Bellomakerのサイト</a></h2>
 
 <a href="https://scratch.mit.edu/users/Bellomaker/">@Bellomaker</a>
 
