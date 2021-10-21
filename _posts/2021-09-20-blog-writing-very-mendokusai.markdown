@@ -2,6 +2,8 @@
 layout: default
 pagename: "記事書くのがめんどくさいのでAIに続き書かせてみた。"
 showfooter: True
+image: mendou.png
+imagecaption: <a href="https://pixabay.com/ja/users/ryanmcguire-123690/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=238529">Ryan McGuire</a>による<a href="https://pixabay.com/ja/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=238529">Pixabay</a>からの画像
 ---
 
 どうも。ぺぬです。私、最近記事を書くのが億劫なんですよ。記事を書くとそのテーマに沿った画像が必要ですし、フリー画像なのでクレジットを表記しないといけないです。正直あまり楽しい作業ではないので、この記事ではAIに文章を書いてもらおうと思います。ではどうぞ。
