@@ -4,6 +4,10 @@ pagename: 相互リンク
 ---
 相互リンクを希望する場合は<a href="https://scratch.mit.edu/studios/27464523/">Enthusiasticの感想・意見</a>からお願いします。
 
+<h2><a href="https://gasukaku.glitch.me">Gasukaku's WebSite</a></h2>
+
+<a href="https://scratch.mit.edu/users/gasukaku07/">@gasukaku07</a>
+
 <h2><a href="https://kuwagatasan.github.io/nebanebakun-mainpage/">nebanebakunの公式サイト</a></h2>
 
 <a href="https://scratch.mit.edu/users/nebanebakun/">@nebanebakun</a>
@@ -15,10 +19,6 @@ pagename: 相互リンク
 <h2><a href="https://poteto143.github.io/Poteto143s_diary/">Poteto143's diary</a></h2>
 
 <a href="https://scratch.mit.edu/users/Poteto143/">@Poteto143</a>
-
-<h2><a href="https://bellomaker.glitch.me/">BellMe!</a></h2>
-
-<a href="https://scratch.mit.edu/users/Bellomaker/">@Bellomaker</a>
 
 <h2><a href="https://yukkku.github.io/">Yukkkuの手帳</a></h2>
 
