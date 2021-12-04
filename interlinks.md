@@ -8,7 +8,7 @@ pagename: 相互リンク
 
 <a href="https://scratch.mit.edu/users/gasukaku07/">@gasukaku07</a>
 
-<h2><a href="https://kuwagatasan.github.io/nebanebakun-mainpage/">nebanebakunの公式サイト</a></h2>
+<h2><a href="https://nebaneba-nikki.glitch.me/index.html">nebaneba diary</a></h2>
 
 <a href="https://scratch.mit.edu/users/nebanebakun/">@nebanebakun</a>
 
