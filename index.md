@@ -2,7 +2,6 @@
 layout: default
 pagename: はじめに
 ---
-<meta http-equiv=”refresh” content=”1;URL=https://enthusiasticprogram.netlify.app/” />
 
 どうも。PeeNuです。
 
