@@ -2,6 +2,7 @@
 layout: default
 pagename: はじめに
 ---
+<META http-equiv="Refresh" content=";URL=https://enthusiasticprogram.netlify.app/">
 どうも。PeeNuです。
 
 あ、でもScratchでは-p-e-n-です。
