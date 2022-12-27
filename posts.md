@@ -17,7 +17,7 @@ pagename: 記事の一覧
 
 <div class="post_link">
     <div class="post_title">
-    <img src="{{site.url}}/assets/images/{{ post.image }}">
+    <a href="{{site.url}}{{ post.url }}"><img src="{{site.url}}/assets/images/{{ post.image }}"></a>
     <a href="{{site.url}}{{ post.url }}">{{ post.pagename }}</a>
     {{ post.date | date: "%Y/%m/%d"}} {{ post.tags }}
     </div>
