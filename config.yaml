@@ -1,4 +1,4 @@
-baseurl: https://enthusiasticprogram.netlify.app/
+baseurl: https://diawadenta.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -181,7 +181,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/EnthusiasticProgram/enthusiasticprogram
+          url: https://diawadenta.github.io/
           params:
             icon: brand-github
             
