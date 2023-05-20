@@ -4,9 +4,9 @@ pagename: 相互リンク
 ---
 相互リンクを希望する場合は<a href="https://scratch.mit.edu/studios/27464523/">Enthusiasticの感想・意見</a>からお願いします。
 
-<h2><a href="https://www.gasukaku.net/scratch/">Gasukaku's WebSite</a></h2>
+<h2><a href="https://ei-max.net">?????</a></h2>
 
-<a href="https://scratch.mit.edu/users/gasukaku07/">@gasukaku07</a>
+<a href="https://scratch.mit.edu/users/ei-max/">@ei-max</a>
 
 <h2><a href="https://nebaneba-nikki.glitch.me/index.html">nebaneba diary</a></h2>
 
